@@ -9,11 +9,10 @@
 
 ### 🧠 About Me
 
-- 🌐 Building modern, responsive & scalable **full stack web apps**  
-- 🖥️ **Frontend**: React.js, Next.js, Tailwind CSS  
-- ⚙️ **Backend**: Node.js, Express.js, MongoDB with Mongoose  
+- 🌐 Building modern, responsive & scalable **Front End web apps**  
+- 🖥️ **Frontend**: React.js, Next.js,
 - 💡 Exploring **AI + Web** and modern technologies  
-- 📫 Contact: **hasnainkhushii@gmail.com**
+- 📫 Contact: **webdevelepor59@gmail.com**
 
 ---
 
