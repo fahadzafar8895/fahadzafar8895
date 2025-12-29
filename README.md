@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hasnain Khushi 👋</h1>
+<h1 align="center">Hi, I'm Fahad Zafar 👋</h1>
 <h3 align="center">🚀 Front End Developer | React & Next.js | Node.js & MongoDB</h3>
 
 <p align="center">
