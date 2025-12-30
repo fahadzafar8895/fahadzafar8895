@@ -16,7 +16,7 @@
 
 ---
 
-[![Hasnain Khushi profile views](https://u8views.com/api/v1/github/profiles/161228105/views/day-week-month-total-count.svg)](https://u8views.com/github/hasnain23233)
+[![Fahad Zafar profile views](https://u8views.com/api/v1/github/profiles/161228105/views/day-week-month-total-count.svg)](https://u8views.com/github/fahadzafar8895)
 
 ---
 
@@ -62,20 +62,20 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnain23233&show_icons=true&theme=react&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasnain23233&theme=react&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain23233&layout=compact&theme=react&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadzafar8895&show_icons=true&theme=react&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fahadzafar8895&theme=react&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadzafar8895&layout=compact&theme=react&hide_border=true" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasnain23233&theme=react" width="95%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasnain23233&theme=react" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasnain23233&theme=react" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasnain23233&theme=react&utcOffset=5" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahadzafar8895&theme=react" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahadzafar8895&theme=react" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahadzafar8895&theme=react" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fahadzafar8895&theme=react&utcOffset=5" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasnain23233&theme=algolia&margin-w=5&margin-h=5&no-frame=true" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fahadzafar8895&theme=algolia&margin-w=5&margin-h=5&no-frame=true" width="95%" />
 </p>
 
 ---
@@ -85,5 +85,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hasnain-khushii-1162802a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:hasnainkhushii@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/hasnain23233"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/fahadzafar8895"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
