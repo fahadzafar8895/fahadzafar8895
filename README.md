@@ -15,7 +15,7 @@
 - 📫 Contact: **webdevelepor59@gmail.com**
 
 ---
-[![Fahad Zafar profile views](https://u8views.com/api/v1/github/profiles/fahadzafar8895/views/day-week-month-total-count.svg)](https://u8views.com/github.com/fahadzafar8895)
+(https://u8views.com/api/v1/github/profiles/fahadzafar8895/views/day-week-month-total-count.svg)](https://u8views.com/github.com/fahadzafar8895)
 
 ---
 
