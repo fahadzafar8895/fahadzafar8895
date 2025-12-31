@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fahad Zafar 👋</h1>
-<h3 align="center">🚀 Front End Developer | React & Next.js | Node.js & MongoDB</h3>
+<h3 align="center">🚀 Front End Developer | React & Next.js</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=600&size=30&duration=1000&pause=1000&center=true&width=650&lines=Frontend:+React+%26+JavaScript;Tech+Explorer+%F0%9F%9A%80;Gamer+%E2%9A%BD" alt="Typing SVG" />
@@ -15,8 +15,7 @@
 - 📫 Contact: **webdevelepor59@gmail.com**
 
 ---
-
-[![Fahad Zafar profile views](https://u8views.com/api/v1/github/profiles/161228105/views/day-week-month-total-count.svg)](https://u8views.com/github/fahadzafar8895)
+[![Fahad Zafar profile views](https://u8views.com/api/v1/github/profiles/fahadzafar8895/views/day-week-month-total-count.svg)](https://u8views.com/github.com/fahadzafar8895)
 
 ---
 
